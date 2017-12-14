@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="36" height="24" tilewidth="24" tileheight="24" nextobjectid="3">
+ <tileset firstgid="1" name="Map" tilewidth="24" tileheight="24">
+  <image source="Map.png" width="800" height="480"/>
+ </tileset>
+ <layer name="bg" width="36" height="24">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OwQkAIAwEsKNbuWHH7sMVBAXzyD+dpAEA+Naq7fbj1Q+cNN7ivvKADQAA
+  </data>
+ </layer>
+ <layer name="块层 1" width="36" height="24">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UOVICQRTG8RmuIKKQqqCyaOAKKa4gkACCnkBcMkWBE8h2ENargaJk/rN5AVRRU9NFYH9Vv3rB6+r+ojYMHVXZRRAhhBHBnqK3/AhgGztzziSQxA1SSCMj9g8o4RFPeMaLzT4XuMQVrm3e8Yk6GmiihbbNu2ZlA5vYWvB8B1300McAQwf7xHGGcwfv1NFxMhGTPwz75rKb6Ojo/LeM+HfGpjW/8I0JfvCLqeK97LDiMgy3y5qr8GAN6/DCp3gvOxzgUMwjHOMEp4gipngvO2SREzOPWxRQxB3uFe9lh1e8iVnGOz5QQRU1xXvZ4Q9gOCxVgA0AAA==
+  </data>
+ </layer>
+ <layer name="块层 2" width="36" height="24">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQsvoAAAAHgYHkvUGYANAAA=
+  </data>
+ </layer>
+ <objectgroup name="object"/>
+</map>
